@@ -11,4 +11,4 @@
 Folgende Module beinhaltet dieses Repository (in alphabetischer Reihenfolge):
 
 - __Info__ ([Dokumentation](Info))  
-  Dieses Modul zeigt die Systeminformationen an.
+  Dieses Modul zeigt die Systeminformationen vom IP-Symcon an.

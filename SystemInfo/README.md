@@ -7,4 +7,4 @@ Bevor das Modul installiert wird, sollte unbedingt ein Backup von IP-Symcon durc
 Der Entwickler haftet nicht für eventuell auftretende Datenverluste oder sonstige Schäden.  
 Der Nutzer stimmt den o.a. Bedingungen, sowie den Lizenzbedingungen ausdrücklich zu.
 
-Dieses Modul zeigt die Systeminformationen an.
+Dieses Modul zeigt die Systeminformationen vom IP-Symcon an.
