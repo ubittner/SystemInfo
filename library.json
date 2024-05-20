@@ -1,0 +1,12 @@
+{
+    "id": "{B94E0B26-6F56-2A83-E9CE-57B3138270BA}",
+    "name": "SystemInfo",
+    "author": "Ulrich Bittner",
+    "url": "https://github.com/ubittner/SystemInfo",
+    "compatibility": {
+        "version": "6.1"
+    },
+    "version": "1.0",
+    "build": 1,
+    "date": 1716146658
+}

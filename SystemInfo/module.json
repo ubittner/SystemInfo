@@ -1,0 +1,14 @@
+{
+    "id": "{5D706760-28D2-1937-7173-72206D57976B}",
+    "name": "SystemInfo",
+    "type": 3,
+    "vendor": "Ulrich Bittner",
+    "aliases": [
+        "Systeminfo"
+    ],
+    "url": "https://github.com/ubittner/SystemInfo/tree/main/SystemInfo",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SI"
+}
